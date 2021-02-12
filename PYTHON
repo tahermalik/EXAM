@@ -1,8 +1,6 @@
 a=int(input("enter any value :"))
 b=int(input("enter any value :"))
 def function(a,b):
-       print("first number is :",a)
-       print("second number is :",b)
        sum=a+b
        return sum
 print("addition of two number is :",function(a,b))
